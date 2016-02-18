@@ -9,7 +9,7 @@ Use next steps:
 3. Depend on to your shell(bash, zsh) please open any of these files: .zshrc, .bashrc, .profile, .bash_profile
   * place there line `launchctl setenv YOUR_VAR WHATEVER`
   * reload profile settings with `source ~/.yourscenariofile`
-4. Use form to specify necessary variable name and get the result :)
+4. Use form to specify name of necessary variable and get the result :)
 
 ### Caveates
 
